@@ -1,14 +1,7 @@
-# 🎯 Object Detection and Tracking — CodeAlpha Internship Task 4
+# 🎯 Object Detection and Tracking — CodeAlpha 
 
 A real-time Object Detection and Tracking system built with Python as part of the **CodeAlpha AI Internship**. Uses YOLOv8 and OpenCV to detect and track 80 object classes live from a webcam.
 
----
-
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png)
-
----
 
 ## ✨ Features
 
@@ -105,13 +98,11 @@ CodeAlpha_ObjectDetection/
 ```
 
 ---
+ Author
 
-## 🙋 Author
-
-**Your Name**
+SIMRAN DAYMA
 AI Intern at CodeAlpha
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
-
+[LinkedIn](https://www.linkedin.com/in/simran-dayma-54151131a?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 ---
 
 ## 🏢 About CodeAlpha
